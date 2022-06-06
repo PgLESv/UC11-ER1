@@ -36,7 +36,9 @@ namespace ChapterFST1.Repositories
             if (livroBuscado != null)
             {
                 livroBuscado.Titulo = livro.Titulo;
+
                 livroBuscado.QuantidadePaginas = livro.QuantidadePaginas;
+
                 livroBuscado.Disponivel = livro.Disponivel;
             }
 

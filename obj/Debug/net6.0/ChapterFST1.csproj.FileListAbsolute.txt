@@ -57,3 +57,4 @@ E:\SENAI\SENAI-LOGICA-PROGRAMACAO\Chapter\ChapterFST1\ChapterFST1\obj\Debug\net6
 E:\SENAI\SENAI-LOGICA-PROGRAMACAO\Chapter\ChapterFST1\ChapterFST1\obj\Debug\net6.0\ChapterFST1.pdb
 E:\SENAI\SENAI-LOGICA-PROGRAMACAO\Chapter\ChapterFST1\ChapterFST1\obj\Debug\net6.0\ChapterFST1.genruntimeconfig.cache
 E:\SENAI\SENAI-LOGICA-PROGRAMACAO\Chapter\ChapterFST1\ChapterFST1\obj\Debug\net6.0\ref\ChapterFST1.dll
+E:\SENAI\SENAI-LOGICA-PROGRAMACAO\Chapter\ChapterFST1\ChapterFST1\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
